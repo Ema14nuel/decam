@@ -1,0 +1,120 @@
+{
+    "infoPrincipal":{
+        "nit": "890390000",
+        "razonSocial":"<NAME>",
+        "nombreComercial":"<NAME>",
+        "direccionFiscal": "",
+        "telefonoFijo": 124567,
+        "celular": "+56-9-87654321",
+        "emailContacto": "<EMAIL>",
+        "paginaWeb": "",
+        "logoUrl": ""
+    },
+    "inicio":{
+        
+    },
+    "nosotros" :{
+        "quienesSomos": "",
+        "mision" : "",
+        "vision" : "",
+        "valores" :" "        
+    },
+    "productos" : {
+        "productosServicios": [
+            {
+                "nombre" : "",
+                "codigo" : "",
+                "descripcion" : "",
+                "valor" : "",
+                "imagenes" : {
+                    "imagenPrincipal": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen1": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen2": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen3": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    }
+                }
+            },
+            {
+                "nombre" : "",
+                "codigo" : "",
+                "Descripcion" : "",
+                "valor" : "",
+                "imagenes" : {
+                    "imagenPrincipal": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen1": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen2": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen3": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    }
+                }
+            },
+            {
+                "nombre" : "",
+                "codigo" : "",
+                "Descripcion" : "",
+                "valor" : "",
+                "imagenes" : {
+                    "imagenPrincipal": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen1": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen2": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    },
+                    "imagen3": {
+                        "alto" :"",
+                        "ancho" : "",
+                        "urlImagen" : ""
+                    }
+                }
+            }
+        ],
+        "productoNuevo": {
+            "nombre" : "",
+            "codigo" : "",
+            "valor" : "",
+            "imagenes" : {
+                "imagen1" : "",
+                "imagen2" : ""
+            }
+            
+        }
+    }
+}
